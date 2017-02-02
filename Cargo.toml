@@ -1,0 +1,7 @@
+[package]
+name = "ppaxos"
+version = "0.1.0"
+authors = ["Félix Saparelli <felix@passcod.name>"]
+description = "An efficient client-based Paxos algorithm that maintains globally consistent state among multiple passive storage backends"
+
+[dependencies]
